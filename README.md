@@ -18,7 +18,7 @@ I am Praveen, graduated from a website design and development post-graduate cert
 ![Jquery](https://img.shields.io/badge/jquery-%23323330.svg?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-%23323330.svg?style=for-the-badge)
-![ReactJs](https://img.shields.io/badge/ReactJs-%23323330.svg?style=for-the-badge)
+![ReactJS](https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![NextJs](https://img.shields.io/badge/NextJs-%23323330.svg?style=for-the-badge)
 ![AngularJS](https://img.shields.io/badge/AngularJS-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 
