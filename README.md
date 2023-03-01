@@ -6,7 +6,6 @@ I am Praveen, graduated from a website design and development post-graduate cert
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishanegi18@gmail.com)](mailto:praveen123babu@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praveen-babu-web-designer/)](https://www.linkedin.com/in/praveen-babu-web-designer/)
 
-[![Yash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=pbgithub003&theme=xcode)](https://github.com/pbgithub003)
 
 ## ⚡ Technologies
 
@@ -21,13 +20,18 @@ I am Praveen, graduated from a website design and development post-graduate cert
 ![SCSS](https://img.shields.io/badge/SCSS-%23323330.svg?style=for-the-badge)
 ![ReactJs](https://img.shields.io/badge/ReactJs-%23323330.svg?style=for-the-badge)
 ![NextJs](https://img.shields.io/badge/NextJs-%23323330.svg?style=for-the-badge)
+![AngularJS](https://img.shields.io/badge/AngularJS-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+
 
 ### Back-End Languages
 
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23563D7C.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJs](https://img.shields.io/badge/expressjs-%23092E20.svg?style=for-the-badge&logo=express.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
 ### Databases
@@ -41,7 +45,6 @@ I am Praveen, graduated from a website design and development post-graduate cert
 
 ![Shopify](https://img.shields.io/badge/shopify-%23563D7C.svg?style=for-the-badge&logo=shopify&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/wordpress-%234ea94b.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![CraftCMS](https://img.shields.io/badge/craftcms-6DA55F?style=for-the-badge&logo=craftmcms&logoColor=white)
 
 
 
@@ -61,8 +64,8 @@ I am Praveen, graduated from a website design and development post-graduate cert
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=ishanegi18&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zhoha28&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=pbgithub003&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pbgithub003&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 </table>
