@@ -64,7 +64,7 @@ I am Praveen, graduated from a website design and development post-graduate cert
 <table>
 <tr>
 <td>
-[![Praveen's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=pbgithub003&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/pbgithub003/github-readme-stats#gh-light-mode-only)
+<img src="https://github.com/pbgithub003/github-readme-stats#gh-light-mode-only"/>
 
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pbgithub003&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
