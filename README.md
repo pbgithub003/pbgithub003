@@ -64,7 +64,18 @@ I am Praveen, graduated from a website design and development post-graduate cert
 <table>
 <tr>
 <td>
-<img src="https://github.com/pbgithub003/github-readme-stats#gh-light-mode-only"/>
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=pbgithub003&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=pbgithub003&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pbgithub003&show_icons=true" />
+  </picture>
+  </td>
 
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pbgithub003&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
